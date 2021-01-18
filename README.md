@@ -19,23 +19,10 @@ Be like software, Keep improving!
 <!-- markdownlint-disable MD033 -->
 
 <details>
-    <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
-
-<!-- BLOG-POST-LIST:START -->
-- [GitHub Codespaces](https://dev.to/Clrkz/github-codespaces-1i8k)
-- [Animate.css v4 Update!](https://dev.to/Clrkz/animate-css-v4-update-18m8)
-- [An open-source curl-based command line tracker for coronavirus or covid-19 with historical chart.](https://dev.to/Clrkz/an-open-source-curl-based-command-line-tracker-for-coronavirus-or-covid-19-with-historical-chart-3op9)
-- [CURL request without protocol on expressJS server?](https://dev.to/Clrkz/curl-request-without-protocol-on-expressjs-server-32op)
-- [Coding Style?](https://dev.to/Clrkz/coding-style-3p36)
-<!-- BLOG-POST-LIST:END -->
-
-</details>
-
-<details>
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1217](https://github.com/animate-css/animate.css/issues/1217) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
+1. 🗣 Created [animate-css/Interns Management System](https://github.com/Clrkz/Interns-Management-System)
 2. 🗣 Commented on [#1126](https://github.com/animate-css/animate.css/issues/1126) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 3. 🗣 Commented on [#1217](https://github.com/animate-css/animate.css/issues/1217) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
 4. ❌ Closed PR [#110](https://github.com/ide-stories/vscode-stories/pull/110) in [ide-stories/vscode-stories](https://github.com/ide-stories/vscode-stories)
