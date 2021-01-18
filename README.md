@@ -54,7 +54,7 @@ Be like software, Keep improving!
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-[![Clarence Andaya Github Stats](https://github-readme-stats.vercel.app/api?username=clrkz&show_icons=true&count_private=true)](https://github.com/Clrkz/github-readme-stats) [![Top Language](https://readme-stats.Clrkz.com/api/top-langs?username=Clrkz&layout=compact)](https://github.com/Clrkz/github-readme-stats)
+[![Clarence Andaya Github Stats](https://github-readme-stats.vercel.app/api?username=clrkz&show_icons=true&count_private=true)](https://github.com/Clrkz/github-readme-stats) [![Top Language](https://github-readme-stats.vercel.app/api/top-langs?username=Clrkz&layout=compact)](https://github.com/Clrkz/github-readme-stats)
 
 </details>
 
