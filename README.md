@@ -22,11 +22,11 @@ Be like software, Keep improving!
     <summary>&#128187 <b>GitHub Activities</b></summary><br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Created [animate-css/Interns Management System](https://github.com/Clrkz/Interns-Management-System)
-2. 🗣 Commented on [#1126](https://github.com/animate-css/animate.css/issues/1126) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-3. 🗣 Commented on [#1217](https://github.com/animate-css/animate.css/issues/1217) in [animate-css/animate.css](https://github.com/animate-css/animate.css)
-4. ❌ Closed PR [#110](https://github.com/ide-stories/vscode-stories/pull/110) in [ide-stories/vscode-stories](https://github.com/ide-stories/vscode-stories)
-5. 🗣 Commented on [#110](https://github.com/ide-stories/vscode-stories/issues/110) in [ide-stories/vscode-stories](https://github.com/ide-stories/vscode-stories)
+1. 🗣 Created [Interns Management System](https://github.com/Clrkz/Interns-Management-System)
+2. 🗣 Created [Criteria Based Grading System](https://github.com/Clrkz/Criteria-Based-Grading-System)
+3. 🗣 Created [Barangay Management System](https://github.com/Clrkz/Barangay-Management-System)
+4. 🗣 Created [Simple Cloud Storage System](https://github.com/Clrkz/Simple-Cloud-Storage-System)
+5. 🗣 Created [Blood Bank System](https://github.com/Clrkz/Blood-Bank-System)
 <!--END_SECTION:activity-->
 
 </details>
