@@ -2,11 +2,11 @@
 
 I'm a part time open source developer and cybersecurity researcher from the Philippines!
 
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/143clarkz) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/143clrkz) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/clrkz) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/warengonzaga) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/warengonzaga) [![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-%23ff813f.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoff.ee/warengonzaga)
+[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/143clarkz) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/143clrkz) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/clrkz) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/clrkz) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/warengonzaga) [![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-%23ff813f.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoff.ee/warengonzaga)
 
 - :muscle: Currently working as a freelance developer.
 - :gift_heart: Author of multiple open source projects.
-- :moneybag: Looking for new clients who wants to work with me, [contact me](mailto:business@warengonzaga.co) please.
+- :moneybag: Looking for new clients who wants to work with me, [contact me](mailto:andayaworks@gmail.com) please.
 - :coffee: Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga)!
 - :trophy: 2021 Goals: Contribute and publish more open source projects.
 - :dart: Wasting my time to save other people's time.
@@ -60,14 +60,14 @@ Wanna see some of my future projects? Join today!
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=warengonzaga)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=Clrkz)
 
 </details>
 
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-[![Clarence Andaya Github Stats](https://readme-stats.warengonzaga.com/api?username=warengonzaga&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=warengonzaga&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
+[![Clarence Andaya Github Stats](https://readme-stats.Clrkz.com/api?username=Clrkz&show_icons=true&count_private=true)](https://github.com/Clrkz/github-readme-stats) [![Top Language](https://readme-stats.Clrkz.com/api/top-langs?username=Clrkz&layout=compact)](https://github.com/Clrkz/github-readme-stats)
 
 </details>
 
@@ -75,11 +75,10 @@ Wanna see some of my future projects? Join today!
 
 ---
 
-:computer: Made with :heart: by **Clarence Andaya** with **YHWH** :pray:
+:computer: Made with :heart: by **Clarence Andaya**
 
-[personal website]: https://warengonzaga.com
-[business website]: https://warengonzaga.co
-[facebook]: https://facebook.com/warengonzagaofficial
-[twitter]: https://twitter.com/warengonzaga
-[instagram]: https://instagram.com/warengonzagaofficial
-[youtube]: https://youtube.com/warengonzaga
+[personal website]: http://clarenceandaya.ml
+[business website]: http://clarenceandaya.ml
+[facebook]: https://facebook.com/143clarkz
+[twitter]: https://twitter.com/143clrkz 
+[youtube]: https://youtube.com/clrkz
