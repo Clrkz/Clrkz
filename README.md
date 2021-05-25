@@ -6,7 +6,7 @@ Be like software, Keep improving!
 
 - :muscle: Currently working as a application developer.
 - :gift_heart: Author of multiple open source projects.
-- :moneybag: <ins>Looking for new clients who wants to work with me<ins>, [contact me](mailto:andayaworks@gmail.com) <ins>please<ins>.
+- :moneybag: <hr>Looking for new clients who wants to work with me</hr>, [contact me](mailto:andayaworks@gmail.com) <hr>please</hr>.
 - :coffee: Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/clrkz)!
 - :trophy: 2021 Goals: Contribute and publish more open source projects. 
 
